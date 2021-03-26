@@ -1,6 +1,6 @@
 # zsh-n
 
-zsh bundle to quickly add [n](https://github.com/tj/n) `6.7.0`.
+zsh bundle to quickly add [n](https://github.com/tj/n) `7.1.0`.
 
 # License
 
