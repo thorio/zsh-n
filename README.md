@@ -1,6 +1,6 @@
 # zsh-n
 
-antigen bundle to quickly add [n](https://github.com/tj/n) `8.1.0`.
+antigen bundle to quickly add [n](https://github.com/tj/n) `8.2.0`.
 
 # License
 
